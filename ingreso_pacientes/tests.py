@@ -2,7 +2,7 @@ from django.test import TestCase
 
 # Create your tests here.
 from ingreso_pacientes.models import Paciente
-
+#ABABABABAB
 
 class CrearPaciente(TestCase):
 
